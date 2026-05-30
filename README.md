@@ -1,5 +1,7 @@
 # Centre Expense Tracker
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?logo=vercel&style=for-the-badge)](https://centre-expense-tracker-full-stack.vercel.app/)
+
 A modern SaaS-style expense management dashboard built for preschool and daycare centres. This project demonstrates full-stack development skills with a focus on UI polish, clean CRUD architecture, and seamless database integration.
 
 ## Features
@@ -58,5 +60,5 @@ Since this app uses a dummy authentication flow for demo purposes:
 *(Note: Authentication barriers are mocked in the frontend for ease of demonstration).*
 
 ## Live Demo Links
-- **Frontend**: *(Add Vercel URL)*
-- **Backend API**: *(Add Render URL)*
+- **Frontend**: [https://centre-expense-tracker-full-stack.vercel.app/](https://centre-expense-tracker-full-stack.vercel.app/)
+- **Backend API**: [https://centre-expense-api.onrender.com/](https://centre-expense-api.onrender.com/)
